@@ -1,0 +1,6316 @@
+[
+    {
+        "id": "11",
+        "image": "dataset/images/synpic42202.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAort anevrizması olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "image": "dataset/images/synpic29265.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol tarafta hava sahası konsolidasyonu var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "image": "dataset/images/synpic54610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu eksenel bir uçak mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "image": "dataset/images/synpic29265.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHasta nasıl yönlendirilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Posterior-Anterior"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "image": "dataset/images/synpic54610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde vasküler patoloji var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "image": "dataset/images/synpic42202.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyomiyopati var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "image": "dataset/images/synpic21776.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nResimde 12 kaburga var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "image": "dataset/images/synpic21776.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu yeterli inspirasyon çabasını temsil ediyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "image": "dataset/images/synpic25821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaburga kırığı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "image": "dataset/images/synpic25821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaburgalarda kırık olduğuna dair bir kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "image": "dataset/images/synpic25821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğer alanlarında intraparenkimal anormallikler var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "image": "dataset/images/synpic25821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğer parankimasında herhangi bir anormallik olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "image": "dataset/images/synpic34515.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde ince bağırsak tıkanıklığı olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "image": "dataset/images/synpic34515.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nİnce bağırsak kalınlaşması mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "image": "dataset/images/synpic40272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHasta eğilmeden uygun bir şekilde konumlandırıldı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "image": "dataset/images/synpic25534.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nİnce bağırsak uygun bir şekilde GI kontrastı ile tanımlanır mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "image": "dataset/images/synpic25534.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBağırsak tıkanıklığı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "image": "dataset/images/synpic39086.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAort duvarları boyunca hiper zayıflatıcı malzeme var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "123",
+        "image": "dataset/images/synpic39086.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAbdominal aortta kireçlenmeler var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "158",
+        "image": "dataset/images/synpic30324.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hastanın pnömoperitoneum kanıtı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "160",
+        "image": "dataset/images/synpic30324.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPeriton boşluğunda hava olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "162",
+        "image": "dataset/images/synpic16174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyak silüet diyaframın çapının yarısından daha az mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "164",
+        "image": "dataset/images/synpic16174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyak silüet normal boyut sınırları içinde mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "178",
+        "image": "dataset/images/synpic21776.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyak konturda daralma var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "180",
+        "image": "dataset/images/synpic21776.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nkardiyak siluet küçük / gerilmiş"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "186",
+        "image": "dataset/images/synpic40272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPulmoner ödem kanıtı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "188",
+        "image": "dataset/images/synpic40272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPulmoner vaskülatürde genişleme var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "198",
+        "image": "dataset/images/synpic52767.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyak kontur normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "200",
+        "image": "dataset/images/synpic52767.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyak silüet göğüs duvarının yan çapının yarısından daha az mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "222",
+        "image": "dataset/images/synpic33422.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol apikal pnömotoraks var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "224",
+        "image": "dataset/images/synpic33422.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol üst akciğer alanında visseral plevranın ana hatları görülebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "239",
+        "image": "dataset/images/synpic25534.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ renal leğen kemiğinde hafif genişleme var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "241",
+        "image": "dataset/images/synpic25534.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ böbrek pelvisinde genişleme var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "269",
+        "image": "dataset/images/synpic33422.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMediastinum'un orta çizgisi değişti mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "271",
+        "image": "dataset/images/synpic33422.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMediastinal kayma var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "275",
+        "image": "dataset/images/synpic40272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol akciğer alanı sağ taraftan daha radyoopak mıdır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "277",
+        "image": "dataset/images/synpic40272.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol akciğer alanı daha beyaz mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "298",
+        "image": "dataset/images/synpic33889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğer normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "300",
+        "image": "dataset/images/synpic33889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu tipik bir karaciğer mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "302",
+        "image": "dataset/images/synpic18319.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğer anormalliklerini tarif eder misin?"
+            },
+            {
+                "from": "gpt",
+                "value": "Pulmoner nodüller"
+            }
+        ]
+    },
+    {
+        "id": "304",
+        "image": "dataset/images/synpic18319.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerlerde hangi anormallikler görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Pulmoner nodüller"
+            }
+        ]
+    },
+    {
+        "id": "306",
+        "image": "dataset/images/synpic32933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ hemidiafragmanın altında ne var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Serbest gaz"
+            }
+        ]
+    },
+    {
+        "id": "308",
+        "image": "dataset/images/synpic32933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ hemidiafragmanın anormalliği nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Serbest gaz"
+            }
+        ]
+    },
+    {
+        "id": "310",
+        "image": "dataset/images/synpic31400.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu posterior anterior düzlemde mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "319",
+        "image": "dataset/images/synpic40464.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDalak anormalliğini nasıl tanımlarsınız?"
+            },
+            {
+                "from": "gpt",
+                "value": "hipodens lezyonu"
+            }
+        ]
+    },
+    {
+        "id": "321",
+        "image": "dataset/images/synpic40464.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDalakta anormal olan nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "hipodens lezyonu"
+            }
+        ]
+    },
+    {
+        "id": "335",
+        "image": "dataset/images/synpic29219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGastrointestinal sistemin görüntüsü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "393",
+        "image": "dataset/images/synpic49914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi düzlemde çekilmiş?"
+            },
+            {
+                "from": "gpt",
+                "value": "PA"
+            }
+        ]
+    },
+    {
+        "id": "401",
+        "image": "dataset/images/synpic40464.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBirden fazla veya sadece 1 metastatik odak var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "bir"
+            }
+        ]
+    },
+    {
+        "id": "402",
+        "image": "dataset/images/synpic40464.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDalakta kaç tane lezyon var?"
+            },
+            {
+                "from": "gpt",
+                "value": "bir"
+            }
+        ]
+    },
+    {
+        "id": "413",
+        "image": "dataset/images/synpic40314.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPankreasta anormal olan nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Büyütülmüş"
+            }
+        ]
+    },
+    {
+        "id": "414",
+        "image": "dataset/images/synpic40314.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPankreas neden anormaldir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Büyütülmüş"
+            }
+        ]
+    },
+    {
+        "id": "415",
+        "image": "dataset/images/synpic31400.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğer apislerinde hangi anormallikler vardır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Nodüler opaklıklar"
+            }
+        ]
+    },
+    {
+        "id": "417",
+        "image": "dataset/images/synpic31400.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğer apislerinde ne görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Nodüler opaklıklar"
+            }
+        ]
+    },
+    {
+        "id": "423",
+        "image": "dataset/images/synpic49914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerler normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "425",
+        "image": "dataset/images/synpic49914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nResim çalışması normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "427",
+        "image": "dataset/images/synpic57368.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnormallikleri nasıl tanımlarsınız?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ring arttırıcı lezyonlar"
+            }
+        ]
+    },
+    {
+        "id": "429",
+        "image": "dataset/images/synpic57368.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyonlar halkayı büyütüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "431",
+        "image": "dataset/images/synpic56799.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon hangi lobda yer alır?"
+            },
+            {
+                "from": "gpt",
+                "value": "sağ temporal lob"
+            }
+        ]
+    },
+    {
+        "id": "433",
+        "image": "dataset/images/synpic56799.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnormallik nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "sağ temporal lob"
+            }
+        ]
+    },
+    {
+        "id": "458",
+        "image": "dataset/images/synpic21044.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAortopulmoner pencereyi nasıl tanımlarsınız?"
+            },
+            {
+                "from": "gpt",
+                "value": "orta mogul"
+            }
+        ]
+    },
+    {
+        "id": "460",
+        "image": "dataset/images/synpic21044.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAortopulmonary penceresinde hangi karakteristik bulguyu görüyorsunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "orta mogul"
+            }
+        ]
+    },
+    {
+        "id": "462",
+        "image": "dataset/images/synpic21044.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimdeki aortopulmonary penceresinde hangi işareti görüyorsunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "orta mogul"
+            }
+        ]
+    },
+    {
+        "id": "470",
+        "image": "dataset/images/synpic49914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYaygın plevral kalınlaşma nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ akciğer"
+            }
+        ]
+    },
+    {
+        "id": "472",
+        "image": "dataset/images/synpic49914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi akciğer anormaldir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ akciğer"
+            }
+        ]
+    },
+    {
+        "id": "475",
+        "image": "dataset/images/synpic28695.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle kireçlendi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "485",
+        "image": "dataset/images/synpic29219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu sağlıklı bir karaciğere benziyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "487",
+        "image": "dataset/images/synpic29219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğer normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "493",
+        "image": "dataset/images/synpic32933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu normal bir x ışını mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "495",
+        "image": "dataset/images/synpic32933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ hemidiafragm normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "503",
+        "image": "dataset/images/synpic31400.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu nasıl bir görüntü?"
+            },
+            {
+                "from": "gpt",
+                "value": "x-ray"
+            }
+        ]
+    },
+    {
+        "id": "513",
+        "image": "dataset/images/synpic20260.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu koronal bir uçakta mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "522",
+        "image": "dataset/images/synpic40314.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nÇevredeki balgam normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "524",
+        "image": "dataset/images/synpic40314.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPankreasın etrafındaki yağ normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "531",
+        "image": "dataset/images/synpic39532.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGöğüs boşluğunun tamamında akciğer izleri var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "532",
+        "image": "dataset/images/synpic39532.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömotoraks var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "557",
+        "image": "dataset/images/synpic57520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüde birden fazla organ sistemi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "571",
+        "image": "dataset/images/synpic27985.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüde kaç intussusception örneği var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Tek lezyon görülmektedir."
+            }
+        ]
+    },
+    {
+        "id": "573",
+        "image": "dataset/images/synpic27985.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBirden fazla intussusception mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "595",
+        "image": "dataset/images/synpic34449.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi taraf daha net görselleştirilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "596",
+        "image": "dataset/images/synpic34449.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi akciğer daha açık?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "598",
+        "image": "dataset/images/synpic17664.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyafram toraksın her iki tarafında net bir şekilde görselleştirilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "600",
+        "image": "dataset/images/synpic17664.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyafram kapalı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "606",
+        "image": "dataset/images/synpic24390.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp, toraksın yarısından daha geniş mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "608",
+        "image": "dataset/images/synpic24390.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nToraks ile karşılaştırıldığında kalp ne kadar geniştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Toraksın genişliğinin yarısından daha azdır."
+            }
+        ]
+    },
+    {
+        "id": "610",
+        "image": "dataset/images/synpic23803.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSolda subdiyafragmatik serbest hava olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "612",
+        "image": "dataset/images/synpic23803.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol hemidiafragmın altındaki serbest hava patolojik midir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "629",
+        "image": "dataset/images/synpic24220.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSafra kesesi hazır mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "630",
+        "image": "dataset/images/synpic24220.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerde görselleştirilen yoğun kütle nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kan damarı"
+            }
+        ]
+    },
+    {
+        "id": "631",
+        "image": "dataset/images/synpic19782.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde serbest hava subkutan olarak nerede sıkışmıştır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Köprücük kemiklerinin üzerinde bilateral olarak"
+            }
+        ]
+    },
+    {
+        "id": "633",
+        "image": "dataset/images/synpic19782.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSupraklaviküler fossae'de serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "648",
+        "image": "dataset/images/synpic41050.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYükselen kolon nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Retrosekal apandisit"
+            }
+        ]
+    },
+    {
+        "id": "650",
+        "image": "dataset/images/synpic41050.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimdeki apandisin tam arka kısmında hangi yapı yatıyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Psoas kas"
+            }
+        ]
+    },
+    {
+        "id": "663",
+        "image": "dataset/images/synpic45557.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalbin sınırları açıkça görselleştirilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "709",
+        "image": "dataset/images/synpic34449.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDeri altı hava koleksiyonu nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ omuzda."
+            }
+        ]
+    },
+    {
+        "id": "711",
+        "image": "dataset/images/synpic34449.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ boyunda deri altı hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "713",
+        "image": "dataset/images/synpic21604.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü diyaframın üzerinde mi çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "718",
+        "image": "dataset/images/synpic13385.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol apekste ne var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Bir boğa lezyonu"
+            }
+        ]
+    },
+    {
+        "id": "720",
+        "image": "dataset/images/synpic13385.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol apekste pnömotoraks mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "722",
+        "image": "dataset/images/synpic31955.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Anterior mediastinum"
+            }
+        ]
+    },
+    {
+        "id": "724",
+        "image": "dataset/images/synpic31955.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp sınırının hangi tarafı gizlenmiştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "726",
+        "image": "dataset/images/synpic24220.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbrek nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Burada görülmez."
+            }
+        ]
+    },
+    {
+        "id": "728",
+        "image": "dataset/images/synpic24220.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbrekler bu görüntüde var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "733",
+        "image": "dataset/images/synpic35914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın sağ veya sol tarafında kolon daha belirgin mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "734",
+        "image": "dataset/images/synpic35914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKolon bu görüşten en çok nerede öne çıkıyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "735",
+        "image": "dataset/images/synpic45557.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimdeki kalp boyutu, görüntü AP alındığından daha küçük mü yoksa daha büyük mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Daha küçük"
+            }
+        ]
+    },
+    {
+        "id": "750",
+        "image": "dataset/images/synpic24319.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüde karaciğer görünüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "751",
+        "image": "dataset/images/synpic53978.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu eksenel bir görüntü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "754",
+        "image": "dataset/images/synpic53978.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde hangi yapılar görülmektedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kafatası kıkırdağı ve medulla"
+            }
+        ]
+    },
+    {
+        "id": "756",
+        "image": "dataset/images/synpic19118.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ akciğerdeki yoğunlukların ortasındaki bu parlaklık nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ bronchus"
+            }
+        ]
+    },
+    {
+        "id": "759",
+        "image": "dataset/images/synpic54795.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nZamansal kemikler kırıldı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "763",
+        "image": "dataset/images/synpic24538.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerlerde konsolidasyon var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "773",
+        "image": "dataset/images/synpic52951.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu nasıl bir görüntü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Düz film x-ray"
+            }
+        ]
+    },
+    {
+        "id": "780",
+        "image": "dataset/images/synpic50949.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ böbreğin önünde bulunan bu opaklıklar nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "İnce bağırsaklar"
+            }
+        ]
+    },
+    {
+        "id": "787",
+        "image": "dataset/images/synpic47737.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeyin jirisi atrofik mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "790",
+        "image": "dataset/images/synpic39240.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeyin jirisinin anatomisi etkilenir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "795",
+        "image": "dataset/images/synpic21410.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nÖn karın duvarına yakın orta yoğunluk nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Diyafram"
+            }
+        ]
+    },
+    {
+        "id": "797",
+        "image": "dataset/images/synpic52951.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir AP görüntüsü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "809",
+        "image": "dataset/images/synpic39240.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntünün düzlemi nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "811",
+        "image": "dataset/images/synpic60096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir tomografi görüntüsü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "813",
+        "image": "dataset/images/synpic50949.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu nasıl bir görüntü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kontrastlı BT"
+            }
+        ]
+    },
+    {
+        "id": "814",
+        "image": "dataset/images/synpic47356.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKan sızıntısı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "821",
+        "image": "dataset/images/synpic41788.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHerniasyon var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "830",
+        "image": "dataset/images/synpic42307.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi parlak beyaz yapılar X'i oluşturur?"
+            },
+            {
+                "from": "gpt",
+                "value": "lateral ventriküller"
+            }
+        ]
+    },
+    {
+        "id": "832",
+        "image": "dataset/images/synpic42307.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nParlak beyaz yapılar nelerdir, neredeyse bir X \"?\""
+            },
+            {
+                "from": "gpt",
+                "value": "lateral ventriküller"
+            }
+        ]
+    },
+    {
+        "id": "840",
+        "image": "dataset/images/synpic43648.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimdeki özofagusu görebiliyor musunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "842",
+        "image": "dataset/images/synpic43648.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYemek borusu görülebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "844",
+        "image": "dataset/images/synpic40096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu varsayımsal mı yoksa infratentorial mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Supratentorial"
+            }
+        ]
+    },
+    {
+        "id": "874",
+        "image": "dataset/images/synpic16810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu yöntem hamile kadınlar için güvenli midir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "900",
+        "image": "dataset/images/synpic40096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu yöntem ile sıvılar vurgulanabilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "906",
+        "image": "dataset/images/synpic30215.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbrekler normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "908",
+        "image": "dataset/images/synpic30215.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbrekler normal görünüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "910",
+        "image": "dataset/images/synpic57935.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYan ventriküller görülebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "912",
+        "image": "dataset/images/synpic57935.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYan ventriküller görülebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "918",
+        "image": "dataset/images/synpic47196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKarın duvarı ile cilt arasında hipoattenüe doku nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "yağlanma"
+            }
+        ]
+    },
+    {
+        "id": "920",
+        "image": "dataset/images/synpic47196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCildin altındaki karanlık yapı nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "yağlanma"
+            }
+        ]
+    },
+    {
+        "id": "925",
+        "image": "dataset/images/synpic38630.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu kütle muhtemelen neoplastik bir süreci temsil ediyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "926",
+        "image": "dataset/images/synpic38630.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu neoplastik bir süreç mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "946",
+        "image": "dataset/images/synpic32136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOmurga kırık mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "948",
+        "image": "dataset/images/synpic32136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVerterbral kırığı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "950",
+        "image": "dataset/images/synpic25758.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGösterilen resimde bir mediastinumu değerlendirebilir misiniz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "951",
+        "image": "dataset/images/synpic25758.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMediastinum görselleştirildi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "977",
+        "image": "dataset/images/synpic22037.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHattın ucu nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "orta sol subklavyen ven"
+            }
+        ]
+    },
+    {
+        "id": "978",
+        "image": "dataset/images/synpic22037.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPort-a-Cath kateterinin ucu nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "orta sol subklavyen ven"
+            }
+        ]
+    },
+    {
+        "id": "979",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde hylar lenfadenopati görüyor musunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "981",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nhylar lenfadenopati var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "983",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGenişletilmiş bir medyastinum var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "985",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMediastinum normalden daha geniş mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "989",
+        "image": "dataset/images/synpic18651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "991",
+        "image": "dataset/images/synpic18651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyomegali var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1007",
+        "image": "dataset/images/synpic46539.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerde sıvı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1009",
+        "image": "dataset/images/synpic46539.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir plevral efüzyon mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1011",
+        "image": "dataset/images/synpic39301.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKitle etkisi mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1013",
+        "image": "dataset/images/synpic39301.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKitle etkisi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1035",
+        "image": "dataset/images/synpic51383.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resim nasıl çekildi"
+            },
+            {
+                "from": "gpt",
+                "value": "T2-MRI"
+            }
+        ]
+    },
+    {
+        "id": "1046",
+        "image": "dataset/images/synpic31259.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBir kütle var mı"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1048",
+        "image": "dataset/images/synpic31259.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu xray'de bir kütle var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1050",
+        "image": "dataset/images/synpic18651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPatolojiyi tanımla"
+            },
+            {
+                "from": "gpt",
+                "value": "pulmoner ödem ile kardiyomegali"
+            }
+        ]
+    },
+    {
+        "id": "1052",
+        "image": "dataset/images/synpic18651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPatoloji nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "pulmoner ödem ile kardiyomegali"
+            }
+        ]
+    },
+    {
+        "id": "1078",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPatoloji hangi organ sistemidir?"
+            },
+            {
+                "from": "gpt",
+                "value": "pulmoner/lenfatik"
+            }
+        ]
+    },
+    {
+        "id": "1080",
+        "image": "dataset/images/synpic56388.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeyin ödemi var mı"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1082",
+        "image": "dataset/images/synpic56388.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeyin şişmiş mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1108",
+        "image": "dataset/images/synpic51872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaviter lezyonun yeri nedir"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ üst lob"
+            }
+        ]
+    },
+    {
+        "id": "1110",
+        "image": "dataset/images/synpic51872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaviter lezyonu nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ üst lob"
+            }
+        ]
+    },
+    {
+        "id": "1116",
+        "image": "dataset/images/synpic46976.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDamar işaretlerinde artış var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1118",
+        "image": "dataset/images/synpic46976.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDamar işaretleri arttı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1132",
+        "image": "dataset/images/synpic55464.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi uçak bu film"
+            },
+            {
+                "from": "gpt",
+                "value": "coronal"
+            }
+        ]
+    },
+    {
+        "id": "1175",
+        "image": "dataset/images/synpic21700.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütlenin yeri nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Pankreasın başı"
+            }
+        ]
+    },
+    {
+        "id": "1177",
+        "image": "dataset/images/synpic21700.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Pankreasın başı"
+            }
+        ]
+    },
+    {
+        "id": "1185",
+        "image": "dataset/images/synpic21028.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle pankreasın hangi bölümünde bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Pankreas kafası"
+            }
+        ]
+    },
+    {
+        "id": "1187",
+        "image": "dataset/images/synpic38858.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde ne tür bir MRI dizisi görüntülenir?"
+            },
+            {
+                "from": "gpt",
+                "value": "T2 ağırlıklı MRI"
+            }
+        ]
+    },
+    {
+        "id": "1192",
+        "image": "dataset/images/synpic48122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBüyük hipodens kütlesi hangi yapıdan kaynaklanır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Cecum'un tabanı"
+            }
+        ]
+    },
+    {
+        "id": "1205",
+        "image": "dataset/images/synpic55286.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeynin hangi lobunda lezyon bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ ön lob"
+            }
+        ]
+    },
+    {
+        "id": "1209",
+        "image": "dataset/images/synpic20208.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir MR mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1210",
+        "image": "dataset/images/synpic28355.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hastanın pnömotoraksı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1236",
+        "image": "dataset/images/synpic20208.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi düzlemde çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Eksenel uçak"
+            }
+        ]
+    },
+    {
+        "id": "1238",
+        "image": "dataset/images/synpic51282.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMR mı yoksa tomografi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "MRI"
+            }
+        ]
+    },
+    {
+        "id": "1259",
+        "image": "dataset/images/synpic38858.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptik sinir bu MRI görüntüsünde görselleştirilebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1264",
+        "image": "dataset/images/synpic16520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu BT taramasında hangi iki ventrikülde kalsifikasyon görülebilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "3. ventrikül ve lateral ventriküller"
+            }
+        ]
+    },
+    {
+        "id": "1265",
+        "image": "dataset/images/synpic53635.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCesedin hangi kısmı burada görüntüleniyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "karın"
+            }
+        ]
+    },
+    {
+        "id": "1266",
+        "image": "dataset/images/synpic16170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hastada pnömomediastinum var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1267",
+        "image": "dataset/images/synpic55286.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nFrontal lobun sol tarafında hangi anormallik görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol frontal kütlenin gerilemesi"
+            }
+        ]
+    },
+    {
+        "id": "1268",
+        "image": "dataset/images/synpic35155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir koronal görüş mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1273",
+        "image": "dataset/images/synpic19853.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBunlar normal böbrek bulguları mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1280",
+        "image": "dataset/images/synpic26248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyafram hangi tarafta yükselir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "1282",
+        "image": "dataset/images/synpic26248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın hangi tarafı yükseltilmiştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "1284",
+        "image": "dataset/images/synpic41119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nL renal ven nereye bağlanır"
+            },
+            {
+                "from": "gpt",
+                "value": "IVC"
+            }
+        ]
+    },
+    {
+        "id": "1286",
+        "image": "dataset/images/synpic41119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nL renal ven nereye akar?"
+            },
+            {
+                "from": "gpt",
+                "value": "IVC"
+            }
+        ]
+    },
+    {
+        "id": "1307",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon kama şeklinde mi görünüyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1309",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon kama şeklinde mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1311",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon beynin sol veya sağ tarafında mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "1312",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeynin hangi tarafında lezyon var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol"
+            }
+        ]
+    },
+    {
+        "id": "1330",
+        "image": "dataset/images/synpic35191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi uçak bu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "1348",
+        "image": "dataset/images/synpic40520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlevral efüzyona dair kanıtlar nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ taraf"
+            }
+        ]
+    },
+    {
+        "id": "1350",
+        "image": "dataset/images/synpic40520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlevral efüzyon nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ taraf"
+            }
+        ]
+    },
+    {
+        "id": "1375",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkut enfarktüsü var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1377",
+        "image": "dataset/images/synpic53033.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu akut enfarktüsle tutarlı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1379",
+        "image": "dataset/images/synpic19853.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu tomografi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1384",
+        "image": "dataset/images/synpic54802.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkut enfarktlar nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "R frontal lob"
+            }
+        ]
+    },
+    {
+        "id": "1386",
+        "image": "dataset/images/synpic54802.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkut infarktları nerede görüyorsunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "R frontal lob"
+            }
+        ]
+    },
+    {
+        "id": "1393",
+        "image": "dataset/images/synpic40520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTrakea normal bir şekilde bulunur mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1395",
+        "image": "dataset/images/synpic40520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTrakea orta çizgi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1409",
+        "image": "dataset/images/synpic59131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu eksenel düzlem mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1419",
+        "image": "dataset/images/synpic19853.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbreklerin uzunluğunu nasıl ölçersiniz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Koronal uçak mı?"
+            }
+        ]
+    },
+    {
+        "id": "1456",
+        "image": "dataset/images/synpic23631.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKarnının tomografisi mi bu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1461",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki görüntüyü elde etmek için hangi görüntüleme yöntemi kullanılır?"
+            },
+            {
+                "from": "gpt",
+                "value": "MRI - T2 ağırlıklı"
+            }
+        ]
+    },
+    {
+        "id": "1466",
+        "image": "dataset/images/synpic46062.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntü hangi düzlemde çekilmiştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "eksenel"
+            }
+        ]
+    },
+    {
+        "id": "1467",
+        "image": "dataset/images/synpic46062.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki resim hangi düzlemde elde edilmiştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "eksenel"
+            }
+        ]
+    },
+    {
+        "id": "1476",
+        "image": "dataset/images/synpic32970.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyonun yeri nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "sağ alt lateral akciğer alanı"
+            }
+        ]
+    },
+    {
+        "id": "1478",
+        "image": "dataset/images/synpic32970.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "sağ alt lateral akciğer alanı"
+            }
+        ]
+    },
+    {
+        "id": "1480",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ üst çeyrekteki kütle ne kadar büyük?"
+            },
+            {
+                "from": "gpt",
+                "value": "3,4 cm"
+            }
+        ]
+    },
+    {
+        "id": "1482",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ üst kadrandaki kütlenin büyüklüğü?"
+            },
+            {
+                "from": "gpt",
+                "value": "3,4 cm"
+            }
+        ]
+    },
+    {
+        "id": "1492",
+        "image": "dataset/images/synpic42805.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHasta kadın mı erkek mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kadın"
+            }
+        ]
+    },
+    {
+        "id": "1493",
+        "image": "dataset/images/synpic42805.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın biyolojik cinsiyeti nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kadın"
+            }
+        ]
+    },
+    {
+        "id": "1500",
+        "image": "dataset/images/synpic31256.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1502",
+        "image": "dataset/images/synpic31256.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp anormal derecede büyük mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1506",
+        "image": "dataset/images/synpic31394.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü göğsü mü gösteriyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1507",
+        "image": "dataset/images/synpic57317.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi organ sistemi görüntüleniyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Beyin"
+            }
+        ]
+    },
+    {
+        "id": "1512",
+        "image": "dataset/images/synpic51426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKanama hangi yapılara bitişiktir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol talamus ve bazal ganglia"
+            }
+        ]
+    },
+    {
+        "id": "1514",
+        "image": "dataset/images/synpic51426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGösterilen kanamanın yakınında hangi yapılar bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol talamus ve bazal ganglia"
+            }
+        ]
+    },
+    {
+        "id": "1529",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki görüntüde görülen lezyondan beynin hangi ana arteri etkilenebilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Basilar arter"
+            }
+        ]
+    },
+    {
+        "id": "1531",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeynin hangi ana arteri bu lezyondan etkilenir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Basilar arter"
+            }
+        ]
+    },
+    {
+        "id": "1540",
+        "image": "dataset/images/synpic27576.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbreklerde kanama var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1542",
+        "image": "dataset/images/synpic27576.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbreklerde kanama görülür mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1548",
+        "image": "dataset/images/synpic51426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu T1 ağırlıklı bir MRI mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1549",
+        "image": "dataset/images/synpic59536.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeyin lezyonları nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ yarım küre"
+            }
+        ]
+    },
+    {
+        "id": "1551",
+        "image": "dataset/images/synpic59536.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeynin hangi yarım küresinde lezyonlar bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ yarım küre"
+            }
+        ]
+    },
+    {
+        "id": "1578",
+        "image": "dataset/images/synpic53287.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon hangi beyin bölgesinde bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ serebellopontin açısı"
+            }
+        ]
+    },
+    {
+        "id": "1580",
+        "image": "dataset/images/synpic53287.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ serebellopontin açısı"
+            }
+        ]
+    },
+    {
+        "id": "1602",
+        "image": "dataset/images/synpic30273.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYükselen kolona bitişik hiperatuatuating ovoid kütle içindeki doku, yoğunluk olarak normal olarak bulunan dokuya benzer mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Adipoz doku"
+            }
+        ]
+    },
+    {
+        "id": "1603",
+        "image": "dataset/images/synpic30273.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın sağındaki aşırı zayıflatıcı ovoid kütlesindeki doku, normalde bulunan hangi dokuya benzer yoğunluktadır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Adipoz doku"
+            }
+        ]
+    },
+    {
+        "id": "1614",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki resimde görülen lezyon, normalde beyinde bulunan hangi nesneye izointenstir?"
+            },
+            {
+                "from": "gpt",
+                "value": "CSF"
+            }
+        ]
+    },
+    {
+        "id": "1615",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon, normalde beyinde bulunan hangi nesneye izointensedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "CSF"
+            }
+        ]
+    },
+    {
+        "id": "1616",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1618",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp anormal derecede büyük mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1622",
+        "image": "dataset/images/synpic57317.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBir hastanın ventrikülleri bu görüntüde görüldüğü gibi büyüttüğü durum?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hydrocephalus"
+            }
+        ]
+    },
+    {
+        "id": "1624",
+        "image": "dataset/images/synpic57317.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde görüldüğü gibi ventriküllerin büyütülme durumu nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hydrocephalus"
+            }
+        ]
+    },
+    {
+        "id": "1626",
+        "image": "dataset/images/synpic60254.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki görüntüde hangi organ sistemi görselleştirilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Beyin"
+            }
+        ]
+    },
+    {
+        "id": "1627",
+        "image": "dataset/images/synpic52828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü nasıl çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "CT"
+            }
+        ]
+    },
+    {
+        "id": "1628",
+        "image": "dataset/images/synpic52828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi görüntüleme yöntemi kullanılır?"
+            },
+            {
+                "from": "gpt",
+                "value": "CT"
+            }
+        ]
+    },
+    {
+        "id": "1630",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki görüntülerde hangi lobda anormal bir kütle görüyorsunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ üst lob"
+            }
+        ]
+    },
+    {
+        "id": "1632",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerlere göre anormal kütle nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ üst lob"
+            }
+        ]
+    },
+    {
+        "id": "1651",
+        "image": "dataset/images/synpic17738.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüyü almak için hangi görüntüleme yöntemi kullanıldı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Xray"
+            }
+        ]
+    },
+    {
+        "id": "1652",
+        "image": "dataset/images/synpic23631.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnormallik nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ posteroinferior serebellum"
+            }
+        ]
+    },
+    {
+        "id": "1654",
+        "image": "dataset/images/synpic23631.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi anormallik mevcut?"
+            },
+            {
+                "from": "gpt",
+                "value": "sağ posteroinferior serebellumda kanama"
+            }
+        ]
+    },
+    {
+        "id": "1678",
+        "image": "dataset/images/synpic22791.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde serbest hava mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1680",
+        "image": "dataset/images/synpic22791.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKarnında serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1686",
+        "image": "dataset/images/synpic38069.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVentriküller genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1688",
+        "image": "dataset/images/synpic38069.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVentrikülün büyüklüğü anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1690",
+        "image": "dataset/images/synpic37275.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHasta bu tarama için nasıl konumlandırılıyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Supine (hava-sıvı seviyesine bakınız)"
+            }
+        ]
+    },
+    {
+        "id": "1701",
+        "image": "dataset/images/synpic22791.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerdeki hipodensitesi nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Galbladder"
+            }
+        ]
+    },
+    {
+        "id": "1703",
+        "image": "dataset/images/synpic22791.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerde hipodens kütlesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1721",
+        "image": "dataset/images/synpic16221.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hasta erkek mi dişi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kadın"
+            }
+        ]
+    },
+    {
+        "id": "1722",
+        "image": "dataset/images/synpic16221.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın cinsiyeti nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kadın"
+            }
+        ]
+    },
+    {
+        "id": "1736",
+        "image": "dataset/images/synpic45610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTrakea normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1738",
+        "image": "dataset/images/synpic45610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTrakea orta çizgi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1753",
+        "image": "dataset/images/synpic33429.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömotoraks var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1755",
+        "image": "dataset/images/synpic33429.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nToraks'ta serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1758",
+        "image": "dataset/images/synpic33331.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ hemidiafragmanın hemen altında bulunan nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Karaciğer"
+            }
+        ]
+    },
+    {
+        "id": "1768",
+        "image": "dataset/images/synpic50958.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPankreas kafasındaki bir kitle karaciğer hasarına neden olabilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1781",
+        "image": "dataset/images/synpic37275.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğer, arttırıcı bir kütle veya lezyon gösterir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1783",
+        "image": "dataset/images/synpic37275.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerde gelişen bir lezyon var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1810",
+        "image": "dataset/images/synpic20626.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntünün üst kısmındaki siyah alanlar nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Maxillary sinüsleri"
+            }
+        ]
+    },
+    {
+        "id": "1812",
+        "image": "dataset/images/synpic20626.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nEn az yoğun bölge neyi temsil ediyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Maxillary sinüsleri"
+            }
+        ]
+    },
+    {
+        "id": "1814",
+        "image": "dataset/images/synpic50958.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın yönelimi nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Ayakları ekrana doğru uzanmış supin"
+            }
+        ]
+    },
+    {
+        "id": "1850",
+        "image": "dataset/images/synpic37275.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir koronal bölüm mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1851",
+        "image": "dataset/images/synpic29771.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTomografide iskelet eklemi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1853",
+        "image": "dataset/images/synpic29771.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde hangi iskelet eklemi görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sacroiliac eklem"
+            }
+        ]
+    },
+    {
+        "id": "1867",
+        "image": "dataset/images/synpic33481.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMetal implantlı bir hasta CXR alabilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1872",
+        "image": "dataset/images/synpic20375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSoldaki lezyon mu yoksa sağdaki lezyon mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "1874",
+        "image": "dataset/images/synpic20375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon hangi tarafta?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "1884",
+        "image": "dataset/images/synpic47974.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntünün çevresi üzerindeki hiperdensler nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kaburgalar"
+            }
+        ]
+    },
+    {
+        "id": "1886",
+        "image": "dataset/images/synpic47974.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPeriferi çevresinde bulunan hiperdens opaklıkları nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kaburgalar"
+            }
+        ]
+    },
+    {
+        "id": "1888",
+        "image": "dataset/images/synpic56116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKafatası kırıkları var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1890",
+        "image": "dataset/images/synpic56116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKafatası kırılmış mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1892",
+        "image": "dataset/images/synpic34922.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKafatasında kırık izi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1894",
+        "image": "dataset/images/synpic34922.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKafatası kırılmış mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1908",
+        "image": "dataset/images/synpic17675.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBir PA CXR'ye karşı yan CXR'de daha iyi ne tespit edilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ ve sol taraflı patoloji"
+            }
+        ]
+    },
+    {
+        "id": "1910",
+        "image": "dataset/images/synpic33302.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü pnömotoraks gösteriyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1912",
+        "image": "dataset/images/synpic33302.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömotoraks var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1930",
+        "image": "dataset/images/synpic45610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHemidiafragmlar düzleşti mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1932",
+        "image": "dataset/images/synpic45610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyafram her iki tarafta da düz mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1943",
+        "image": "dataset/images/synpic55583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde herhangi bir anormallik var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1945",
+        "image": "dataset/images/synpic55583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde lezyonlar var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1951",
+        "image": "dataset/images/synpic31217.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir MR mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "1968",
+        "image": "dataset/images/synpic27646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde açıkça tanımlanmış kardiyak sınırlar var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "1982",
+        "image": "dataset/images/synpic55583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi düzlemde?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "1996",
+        "image": "dataset/images/synpic40426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü tarafından yakalanan bir organı adlandırın."
+            },
+            {
+                "from": "gpt",
+                "value": "bağırsaklar"
+            }
+        ]
+    },
+    {
+        "id": "2001",
+        "image": "dataset/images/synpic47020.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVentriküllerin nesi var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Lateral ve üçüncü ventriküler hidrosefali"
+            }
+        ]
+    },
+    {
+        "id": "2003",
+        "image": "dataset/images/synpic47020.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi ventriküler anormallikler görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Lateral ve üçüncü ventriküler hidrosefali"
+            }
+        ]
+    },
+    {
+        "id": "2005",
+        "image": "dataset/images/synpic27646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYerelleştirilmiş bir kitle var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2007",
+        "image": "dataset/images/synpic27646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOdak kütlesi mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2035",
+        "image": "dataset/images/synpic34054.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVücutta sıkışmış hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2037",
+        "image": "dataset/images/synpic34054.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nÜcretsiz hava mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2043",
+        "image": "dataset/images/synpic29263.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPulmoner bulgular var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2045",
+        "image": "dataset/images/synpic29263.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerlerde anormallik var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2082",
+        "image": "dataset/images/synpic45364.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnormal bulgular var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2084",
+        "image": "dataset/images/synpic45364.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüde normal olmayan bir şey var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2094",
+        "image": "dataset/images/synpic24878.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDurum nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Divertikülit"
+            }
+        ]
+    },
+    {
+        "id": "2096",
+        "image": "dataset/images/synpic24878.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPatoloji nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Divertikülit"
+            }
+        ]
+    },
+    {
+        "id": "2121",
+        "image": "dataset/images/synpic23648.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi düzlemde çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "2135",
+        "image": "dataset/images/synpic52988.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKalp genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2137",
+        "image": "dataset/images/synpic52988.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyomegali mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2143",
+        "image": "dataset/images/synpic24967.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSafra kesesindeki parlak lekeler nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Gallstones"
+            }
+        ]
+    },
+    {
+        "id": "2144",
+        "image": "dataset/images/synpic24967.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSafra taşları tanımlanabilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2158",
+        "image": "dataset/images/synpic28210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBağırsaklarda hava mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2160",
+        "image": "dataset/images/synpic28210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBağırsak gazı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2166",
+        "image": "dataset/images/synpic45699.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi iki kan damarı kolu etkilenir?"
+            },
+            {
+                "from": "gpt",
+                "value": "sol ACA ve MCA"
+            }
+        ]
+    },
+    {
+        "id": "2168",
+        "image": "dataset/images/synpic45699.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi kan damarları etkilenir?"
+            },
+            {
+                "from": "gpt",
+                "value": "sol ACA ve MCA"
+            }
+        ]
+    },
+    {
+        "id": "2185",
+        "image": "dataset/images/synpic52248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde patolojiden hangi organ etkilenir?"
+            },
+            {
+                "from": "gpt",
+                "value": "beyin"
+            }
+        ]
+    },
+    {
+        "id": "2187",
+        "image": "dataset/images/synpic52248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi yapılar söz konusu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Caudate, putamen, sol parietal"
+            }
+        ]
+    },
+    {
+        "id": "2203",
+        "image": "dataset/images/synpic100176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömoperitoneum olduğuna dair kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2205",
+        "image": "dataset/images/synpic100176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altında serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2223",
+        "image": "dataset/images/synpic27142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi organ sistemi gösterilmektedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "beyin"
+            }
+        ]
+    },
+    {
+        "id": "2224",
+        "image": "dataset/images/synpic27142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi yapı tasvir edilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "beyin"
+            }
+        ]
+    },
+    {
+        "id": "2226",
+        "image": "dataset/images/synpic22794.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntü hangi patolojiyi temsil ediyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "böbrek kisti"
+            }
+        ]
+    },
+    {
+        "id": "2228",
+        "image": "dataset/images/synpic22794.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nEn muhtemel kütle nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "böbrek kisti"
+            }
+        ]
+    },
+    {
+        "id": "2254",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle sınırları iyi tanımlanmış mıdır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2256",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütlenin sınırları iyi tanımlanmış mıdır ve kütle homojeninin iç kısmı mıdır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2257",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütlenin iç kısmı homojen mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2259",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle iyi sınırlandırılmış mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2261",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle homojen mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2263",
+        "image": "dataset/images/synpic31757.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle iyi sınırlandırılmış ve homojen mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2268",
+        "image": "dataset/images/synpic56061.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntü nasıl çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "eksenel"
+            }
+        ]
+    },
+    {
+        "id": "2269",
+        "image": "dataset/images/synpic56061.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde hangi uçak kullanıldı?"
+            },
+            {
+                "from": "gpt",
+                "value": "eksenel"
+            }
+        ]
+    },
+    {
+        "id": "2310",
+        "image": "dataset/images/synpic42210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n\"İki kambur\", simgeleyen görüntünün tabanında ne var?\""
+            },
+            {
+                "from": "gpt",
+                "value": "Diyafram"
+            }
+        ]
+    },
+    {
+        "id": "2311",
+        "image": "dataset/images/synpic25105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğer bulguları normal midir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2313",
+        "image": "dataset/images/synpic25105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğer normal görünüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2318",
+        "image": "dataset/images/synpic23008.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBağırsak duvarlarının dışında hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2320",
+        "image": "dataset/images/synpic23008.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömoperitoneum belirgin mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2328",
+        "image": "dataset/images/synpic52932.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi organ sistemi görselleştirilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "göğüs"
+            }
+        ]
+    },
+    {
+        "id": "2333",
+        "image": "dataset/images/synpic31962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altındaki hava patolojik mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2335",
+        "image": "dataset/images/synpic31962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altında serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2349",
+        "image": "dataset/images/synpic33889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBiliyer kanal genişlemesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2352",
+        "image": "dataset/images/synpic57237.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle hangi ventrikülde bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "4. ventrikül"
+            }
+        ]
+    },
+    {
+        "id": "2369",
+        "image": "dataset/images/synpic40596.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu normal bir karaciğer mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2371",
+        "image": "dataset/images/synpic27198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKontrast kullanılıyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2372",
+        "image": "dataset/images/synpic34713.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın atardamarlarında ve damarlarında kontrast var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2377",
+        "image": "dataset/images/synpic38069.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLezyon hiperdens mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2381",
+        "image": "dataset/images/synpic47783.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altındaki hava patolojik mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2383",
+        "image": "dataset/images/synpic47783.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altında serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2391",
+        "image": "dataset/images/synpic676.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüyü almak için hangi yöntem kullanılır?"
+            },
+            {
+                "from": "gpt",
+                "value": "XR"
+            }
+        ]
+    },
+    {
+        "id": "2406",
+        "image": "dataset/images/synpic20260.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAort büyüklüğü anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2408",
+        "image": "dataset/images/synpic20260.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAort genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2413",
+        "image": "dataset/images/synpic33481.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi akciğer lobu en az opaklığa sahiptir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sol üst"
+            }
+        ]
+    },
+    {
+        "id": "2417",
+        "image": "dataset/images/synpic24248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüde görülen luminal yüzeyin geliştirilmesi için terim?"
+            },
+            {
+                "from": "gpt",
+                "value": "mukozal hiperemi"
+            }
+        ]
+    },
+    {
+        "id": "2420",
+        "image": "dataset/images/synpic34515.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın ince bağırsağında kontrast var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2425",
+        "image": "dataset/images/synpic30273.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAşırı zayıflama ovoid kütlesi hangi yapıda yanaldır?"
+            },
+            {
+                "from": "gpt",
+                "value": "yükselen kolon"
+            }
+        ]
+    },
+    {
+        "id": "2428",
+        "image": "dataset/images/synpic19477.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nİki küçük hiper yoğunluk ne gösteriyor?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2430",
+        "image": "dataset/images/synpic42290.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAbdominal aort normal boyut sınırları içinde mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2448",
+        "image": "dataset/images/synpic24878.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın ensefalonu bu görüntüde görülebilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2452",
+        "image": "dataset/images/synpic19782.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKöprücük kemiği kırıldı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2458",
+        "image": "dataset/images/synpic34054.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi böbreğin etrafında sıvı var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Doğru."
+            }
+        ]
+    },
+    {
+        "id": "2465",
+        "image": "dataset/images/synpic23008.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömo bağırsak mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2475",
+        "image": "dataset/images/synpic52248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2479",
+        "image": "dataset/images/synpic56061.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nİki taraf da etkilendi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2481",
+        "image": "dataset/images/synpic28378.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ göğsün ön duvarında ne var?"
+            },
+            {
+                "from": "gpt",
+                "value": "Mediport"
+            }
+        ]
+    },
+    {
+        "id": "2509",
+        "image": "dataset/images/synpic51926.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın böbreklerinde hidronefroz var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2515",
+        "image": "dataset/images/synpic25105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBöbrek burada mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2520",
+        "image": "dataset/images/synpic27646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHava-sıvı seviyesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2524",
+        "image": "dataset/images/synpic23989.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGöğüs tüpü yerleştirildi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2538",
+        "image": "dataset/images/synpic39088.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPnömoperitoneum kanıtı var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2545",
+        "image": "dataset/images/synpic38630.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu kontrast arttırılmış bir BT mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2546",
+        "image": "dataset/images/synpic12210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nNodüller her iki akciğerde de bulunur mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2552",
+        "image": "dataset/images/synpic42210.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütlenin yeri nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "anterior mediastinum"
+            }
+        ]
+    },
+    {
+        "id": "2554",
+        "image": "dataset/images/synpic19605.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPankreastaki yapılar kistik mi yoksa katı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kistik"
+            }
+        ]
+    },
+    {
+        "id": "2563",
+        "image": "dataset/images/synpic29263.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHava-sıvı seviyesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2568",
+        "image": "dataset/images/synpic29771.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKarnında serbest hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2581",
+        "image": "dataset/images/synpic21734.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKütle ne kadar büyük?"
+            },
+            {
+                "from": "gpt",
+                "value": "5mm"
+            }
+        ]
+    },
+    {
+        "id": "2586",
+        "image": "dataset/images/synpic16174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hastada EKG izi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2592",
+        "image": "dataset/images/synpic41325.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu normal bir görüntü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2594",
+        "image": "dataset/images/synpic17848.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nNodüller iyi sınırlandırılmış mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2596",
+        "image": "dataset/images/synpic29219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu normal bir görüntü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2598",
+        "image": "dataset/images/synpic23571.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nApandisi genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2600",
+        "image": "dataset/images/synpic57935.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi görüntü düzlemi bu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "2603",
+        "image": "dataset/images/synpic100176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi modalite kullanıldı?"
+            },
+            {
+                "from": "gpt",
+                "value": "düz film"
+            }
+        ]
+    },
+    {
+        "id": "2607",
+        "image": "dataset/images/synpic32970.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDiyaframın altında hava var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2611",
+        "image": "dataset/images/synpic23130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü normal mi yoksa anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Anormal"
+            }
+        ]
+    },
+    {
+        "id": "2617",
+        "image": "dataset/images/synpic56344.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü için hangi yöntem kullanılmıştır?"
+            },
+            {
+                "from": "gpt",
+                "value": "MRI"
+            }
+        ]
+    },
+    {
+        "id": "2623",
+        "image": "dataset/images/synpic38263.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSinyaller en yoğun nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "Frontal ve Occipital"
+            }
+        ]
+    },
+    {
+        "id": "2627",
+        "image": "dataset/images/synpic56116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nEnfarktlar nerede?"
+            },
+            {
+                "from": "gpt",
+                "value": "bazal gangliya, serebellum, serebral korteks"
+            }
+        ]
+    },
+    {
+        "id": "2632",
+        "image": "dataset/images/synpic58902.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOrta hat yapılarında değişiklik var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2642",
+        "image": "dataset/images/synpic47196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYağlı iplik var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2650",
+        "image": "dataset/images/synpic51426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKanamanın hipointense doğası, zaman çizelgesi açısından neyi ifade eder?"
+            },
+            {
+                "from": "gpt",
+                "value": "erken kanama"
+            }
+        ]
+    },
+    {
+        "id": "2651",
+        "image": "dataset/images/synpic21995.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDalak burada mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hastanın solunda"
+            }
+        ]
+    },
+    {
+        "id": "2652",
+        "image": "dataset/images/synpic43648.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol böbrek anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2660",
+        "image": "dataset/images/synpic16810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAdenopati var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2662",
+        "image": "dataset/images/synpic16407.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerlerin hangi tarafı hiperenflasyona uğramıştır?"
+            },
+            {
+                "from": "gpt",
+                "value": "Bilateral akciğerler"
+            }
+        ]
+    },
+    {
+        "id": "2682",
+        "image": "dataset/images/synpic59126.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBronşiyal hava yolları genişliyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2691",
+        "image": "dataset/images/synpic52282.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nNe tür MRI modaliteleri kullanılır?"
+            },
+            {
+                "from": "gpt",
+                "value": "DWI Difüzyon ağırlıklı"
+            }
+        ]
+    },
+    {
+        "id": "2702",
+        "image": "dataset/images/synpic55948.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu normal bir görüntü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2710",
+        "image": "dataset/images/synpic55583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKortikal atrofi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2714",
+        "image": "dataset/images/synpic47974.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHepatik lezyonlar halkayı güçlendiriyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2716",
+        "image": "dataset/images/synpic26697.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHangi görüntü modaliteleri kullanılır?"
+            },
+            {
+                "from": "gpt",
+                "value": "CT"
+            }
+        ]
+    },
+    {
+        "id": "2721",
+        "image": "dataset/images/synpic26764.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCostophrenic açıları korunmuş mudur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2724",
+        "image": "dataset/images/synpic25587.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSağ diyafram görselleştirildi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2726",
+        "image": "dataset/images/synpic31232.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAbdominal aort genişledi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2731",
+        "image": "dataset/images/synpic53228.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHilar lenfadenopati var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2735",
+        "image": "dataset/images/synpic25821.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMide kabarcığı hastanın sol veya sağ tarafında gösterilir mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Sağ taraf"
+            }
+        ]
+    },
+    {
+        "id": "2741",
+        "image": "dataset/images/synpic32962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOpaklık nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Orta hattın sağında, sağ hilumdan daha üstün."
+            }
+        ]
+    },
+    {
+        "id": "2745",
+        "image": "dataset/images/synpic32084.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaburga kırığı olduğuna dair bir kanıt var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2752",
+        "image": "dataset/images/synpic53867.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\ncm'deki kütle ne kadar büyük?"
+            },
+            {
+                "from": "gpt",
+                "value": "2.5cm x 1.7cm x 1.6cm"
+            }
+        ]
+    },
+    {
+        "id": "2770",
+        "image": "dataset/images/synpic38531.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerin sol, sağ veya her iki tarafında plevral opaklıklar bulunur mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Her ikisi de"
+            }
+        ]
+    },
+    {
+        "id": "2771",
+        "image": "dataset/images/synpic38531.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlevral opaklıklar iki taraflı mı yoksa tek taraflı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Bilateral"
+            }
+        ]
+    },
+    {
+        "id": "2788",
+        "image": "dataset/images/synpic31232.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nApandisi büyütülmemiş mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2790",
+        "image": "dataset/images/synpic31232.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nApandisin boyutu normal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2817",
+        "image": "dataset/images/synpic22828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hasta supin pozisyonunda mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2818",
+        "image": "dataset/images/synpic22828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHasta sırtüstü yatıyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2821",
+        "image": "dataset/images/synpic100228.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nÜç dairesel opaklığın yeri nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Mide"
+            }
+        ]
+    },
+    {
+        "id": "2823",
+        "image": "dataset/images/synpic100228.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nÜç dairesel opaklık nerede bulunur?"
+            },
+            {
+                "from": "gpt",
+                "value": "Mide"
+            }
+        ]
+    },
+    {
+        "id": "2834",
+        "image": "dataset/images/synpic40500.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu beynin eksenel bir görüntüsü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2837",
+        "image": "dataset/images/synpic39141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerde en az bir hipodensity bulunur mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2839",
+        "image": "dataset/images/synpic39141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKaraciğerde hipodensitesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2845",
+        "image": "dataset/images/synpic22828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü x-ray ile mi çekildi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "2878",
+        "image": "dataset/images/synpic60703.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimdeki eser nasıl kategorize edilir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hareket"
+            }
+        ]
+    },
+    {
+        "id": "2880",
+        "image": "dataset/images/synpic60703.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu resimde ne tür bir eser gösterilmektedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hareket"
+            }
+        ]
+    },
+    {
+        "id": "2902",
+        "image": "dataset/images/synpic56841.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu beynin eksenel veya sarkital bir görünümü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "2903",
+        "image": "dataset/images/synpic56841.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBeynin hangi kesiti bu görüntüdür?"
+            },
+            {
+                "from": "gpt",
+                "value": "Axial"
+            }
+        ]
+    },
+    {
+        "id": "2904",
+        "image": "dataset/images/synpic32727.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hasta IV kontrastı aldı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2905",
+        "image": "dataset/images/synpic32727.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu hastaya IV kontrast verildi mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2938",
+        "image": "dataset/images/synpic9872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu bir T1 ağırlıklı, T2 ağırlıklı veya FLARIR görüntü mü?"
+            },
+            {
+                "from": "gpt",
+                "value": "FLAIR"
+            }
+        ]
+    },
+    {
+        "id": "2939",
+        "image": "dataset/images/synpic9872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntüleme yöntemi nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "MR-FLAIR"
+            }
+        ]
+    },
+    {
+        "id": "2940",
+        "image": "dataset/images/synpic22828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAortun kenarlarında dikkat edilen hiperdens lezyonları nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kalkifiye ateroskleroz"
+            }
+        ]
+    },
+    {
+        "id": "2942",
+        "image": "dataset/images/synpic22828.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAortun etrafını saran aşırı yoğunluklar nelerdir?"
+            },
+            {
+                "from": "gpt",
+                "value": "Kalkifiye ateroskleroz"
+            }
+        ]
+    },
+    {
+        "id": "2949",
+        "image": "dataset/images/synpic26764.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCiğerleri aşırı şişirilmiş mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2951",
+        "image": "dataset/images/synpic26764.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAkciğerde hipoenflasyon veya hiperenflasyon var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hiperenflasyon"
+            }
+        ]
+    },
+    {
+        "id": "2952",
+        "image": "dataset/images/synpic38531.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol hemidiafram düz görünüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2954",
+        "image": "dataset/images/synpic38531.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSol hemidiafragmanın düzleşmesi var mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "2957",
+        "image": "dataset/images/synpic23571.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHavanın küçük kabarcıkları normal mi yoksa anormal mi görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "anormal"
+            }
+        ]
+    },
+    {
+        "id": "2958",
+        "image": "dataset/images/synpic23571.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nLümende görülen küçük hava kabarcıkları normal mi yoksa anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "anormal"
+            }
+        ]
+    },
+    {
+        "id": "2970",
+        "image": "dataset/images/synpic31928.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu MR'ın dizilimi nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "T2-ağırlıklı"
+            }
+        ]
+    },
+    {
+        "id": "2987",
+        "image": "dataset/images/synpic47191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntüde hangi patoloji görülür?"
+            },
+            {
+                "from": "gpt",
+                "value": "mezenterik lenfadenopati ile terminal ilum bölgesinde yumuşak doku kütlesi"
+            }
+        ]
+    },
+    {
+        "id": "2989",
+        "image": "dataset/images/synpic47191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın taramasının nesi var?"
+            },
+            {
+                "from": "gpt",
+                "value": "mezenterik lenfadenopati ile terminal ilum bölgesinde yumuşak doku kütlesi"
+            }
+        ]
+    },
+    {
+        "id": "3001",
+        "image": "dataset/images/synpic53574.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSulci anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3003",
+        "image": "dataset/images/synpic53574.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nSulci bu görüntüde anormal görünüyor mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3015",
+        "image": "dataset/images/synpic60543.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGörüntü muhtemelen hangi tesadüfi bulguya sahipti?"
+            },
+            {
+                "from": "gpt",
+                "value": "cavum vergae"
+            }
+        ]
+    },
+    {
+        "id": "3017",
+        "image": "dataset/images/synpic60543.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nMuhtemelen bu görüntüde tesadüfen bulunan şey nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "cavum vergae"
+            }
+        ]
+    },
+    {
+        "id": "3026",
+        "image": "dataset/images/synpic31116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu tomografi mi yoksa MR mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "MRI"
+            }
+        ]
+    },
+    {
+        "id": "3027",
+        "image": "dataset/images/synpic31116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYukarıdaki görüntüyü almak için bir BT veya MRI kullanıldı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "MRI"
+            }
+        ]
+    },
+    {
+        "id": "3030",
+        "image": "dataset/images/synpic42951.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi düzlemde çekilmiştir?"
+            },
+            {
+                "from": "gpt",
+                "value": "eksenel"
+            }
+        ]
+    },
+    {
+        "id": "3055",
+        "image": "dataset/images/synpic31928.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVentriküller anormal boyutta mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3057",
+        "image": "dataset/images/synpic31928.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nVentriküllerin büyüklüğü anormal mi?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3059",
+        "image": "dataset/images/synpic25587.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHerhangi bir trakeal sapma mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3061",
+        "image": "dataset/images/synpic25587.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nTrakea bu görüntüde saptı mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3063",
+        "image": "dataset/images/synpic43609.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBu görüntü hangi koşulla tutarlıdır?"
+            },
+            {
+                "from": "gpt",
+                "value": "apandisit"
+            }
+        ]
+    },
+    {
+        "id": "3064",
+        "image": "dataset/images/synpic43609.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nHastanın durumu nedir?"
+            },
+            {
+                "from": "gpt",
+                "value": "apandisit"
+            }
+        ]
+    },
+    {
+        "id": "3084",
+        "image": "dataset/images/synpic23571.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nEngelleme nerede mevcut?"
+            },
+            {
+                "from": "gpt",
+                "value": "apandisin proksimal yönü"
+            }
+        ]
+    },
+    {
+        "id": "3086",
+        "image": "dataset/images/synpic23571.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nEngelleme nerede mevcut, varsa?"
+            },
+            {
+                "from": "gpt",
+                "value": "apandisin proksimal yönü"
+            }
+        ]
+    },
+    {
+        "id": "3132",
+        "image": "dataset/images/synpic47191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nGI kanalı kontrast ile vurgulanır mı?"
+            },
+            {
+                "from": "gpt",
+                "value": "Evet."
+            }
+        ]
+    },
+    {
+        "id": "3136",
+        "image": "dataset/images/synpic676.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyomegali görüyor musunuz?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    },
+    {
+        "id": "3138",
+        "image": "dataset/images/synpic676.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nKardiyomegali mevcut mu?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hayır."
+            }
+        ]
+    }
+]
